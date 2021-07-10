@@ -1,0 +1,2 @@
+# Red-Wine-Quality-Model-Deployment
+About In my Red Wine Quality Prediction Model, firstly I took the dataset from Kaggle, trained it efficiently with appropriate EDA, and predicted the model, using Random Forest Classifier Algorithm, got accuracy around 80.20%, Deployed it locally using winepp.py (Streamlit) and Html files, So basically, By inserting various parameters like, pH levels, acidity, density, residual sugar etc ... we get to know the quality of Red Wine 
